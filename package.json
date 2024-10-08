@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js",
     "consumer": "node consumer.js",
-    "test_event": "node test_event.js"
+    "test_event": "node test_event.js",
+    "in_memory": "node in_memory_implementation.js"
   },
   "author": "Daniel Ozeh",
   "license": "ISC",
