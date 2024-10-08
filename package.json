@@ -8,7 +8,8 @@
     "start": "node app.js",
     "consumer": "node consumer.js",
     "test_event": "node test_event.js",
-    "in_memory": "node in_memory_implementation.js"
+    "in_memory": "node in_memory_implementation.js",
+    "test_in_memory_event": "node test_in_memory_event.js"
   },
   "author": "Daniel Ozeh",
   "license": "ISC",
